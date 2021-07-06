@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/saashapina/portfolio-redesign.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/saashapina/portfolio-redesign.git/static/js/main.224de997.chunk.js",
+    "main.js.map": "/saashapina/portfolio-redesign.git/static/js/main.224de997.chunk.js.map",
+    "runtime-main.js": "/saashapina/portfolio-redesign.git/static/js/runtime-main.b7f54b20.js",
+    "runtime-main.js.map": "/saashapina/portfolio-redesign.git/static/js/runtime-main.b7f54b20.js.map",
+    "static/js/2.7d464520.chunk.js": "/saashapina/portfolio-redesign.git/static/js/2.7d464520.chunk.js",
+    "static/js/2.7d464520.chunk.js.map": "/saashapina/portfolio-redesign.git/static/js/2.7d464520.chunk.js.map",
+    "static/js/3.06fe8233.chunk.js": "/saashapina/portfolio-redesign.git/static/js/3.06fe8233.chunk.js",
+    "static/js/3.06fe8233.chunk.js.map": "/saashapina/portfolio-redesign.git/static/js/3.06fe8233.chunk.js.map",
+    "index.html": "/saashapina/portfolio-redesign.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/saashapina/portfolio-redesign.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7d464520.chunk.js.LICENSE.txt": "/saashapina/portfolio-redesign.git/static/js/2.7d464520.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/saashapina/portfolio-redesign.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7f54b20.js",
+    "static/js/2.7d464520.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.224de997.chunk.js"
+  ]
+}
