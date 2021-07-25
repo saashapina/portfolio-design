@@ -1,0 +1,62 @@
+.hero {
+  position: relative;
+  background-image: url("assets/hero-plain-background.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 600px;
+  padding: 30px 120px 60px;
+  color: #a04b43;
+
+  .header {
+    display: flex;
+    justify-content: space-between;
+
+    .signature-logo {
+      font-size: 32px;
+      font-family: "agustina-signaturesignature";
+    }
+  }
+
+  .hero-content {
+    position: relative;
+
+    .hero-text {
+      position: absolute;
+      font-family: "Cormorant", serif;
+      font-size: 90px;
+      font-weight: 600;
+      margin-top: 70px;
+      text-transform: uppercase;
+      z-index: 1;
+    }
+
+    svg {
+      position: absolute;
+      right: 80px;
+      top: 35px;
+      color: #a04b43;
+    }
+
+    // .hero-flower-mask {
+    //   position: absolute;
+    //   right: 80px;
+    //   top: 50px;
+    //   height: 400px;
+    //   width: 456px;
+    //   background-color: #efecea;
+    //   animation-name: shrink;
+    //   animation-duration: 6s;
+    //   animation-fill-mode: forwards;
+    // }
+
+    @keyframes shrink {
+      from {
+        height: 375px;
+      }
+      to {
+        height: 0px;
+      }
+    }
+  }
+}

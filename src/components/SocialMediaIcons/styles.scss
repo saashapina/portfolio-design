@@ -1,0 +1,14 @@
+.social-media-icons {
+  display: flex;
+  justify-content: space-between;
+  width: 260px;
+
+  svg {
+    height: 25px;
+    width: 25px;
+
+    &:last-child {
+      width: 72px;
+    }
+  }
+}
